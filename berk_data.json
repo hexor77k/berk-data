@@ -44,80 +44,15 @@
   ],
   "episodes": [
     {
-      "id": "e1",
+      "id": "e_muasc7qddrx",
       "n": 1,
-      "title": "لقاء لا يُنسى",
-      "desc": "البداية التي غيّرت علاقة البشر بالتنانين.",
-      "date": "2026-01-10",
-      "img": "images/poster_1.jpg",
-      "duration": "24:18",
-      "video": "",
+      "title": "الحلقة الأولى",
+      "desc": "كيف تروض تنينك  how to train your dragon 1\nمدبلج HD",
+      "date": "2026-09-21",
+      "duration": "1:37:51",
       "category": "مغامرة",
-      "published": true,
-      "featured": true
-    },
-    {
-      "id": "e2",
-      "n": 2,
-      "title": "أجنحة في السماء",
-      "desc": "رحلة جديدة فوق جزر بيرك الجليدية.",
-      "date": "2026-02-02",
-      "img": "images/poster_2.jpg",
-      "duration": "25:06",
-      "video": "",
-      "category": "مغامرة",
-      "published": true,
-      "featured": false
-    },
-    {
-      "id": "e3",
-      "n": 3,
-      "title": "صديق جديد",
-      "desc": "حين يصبح التنين أقرب من أي رفيق.",
-      "date": "2026-03-08",
-      "img": "images/poster_3.jpg",
-      "duration": "23:44",
-      "video": "",
-      "category": "عائلة",
-      "published": true,
-      "featured": false
-    },
-    {
-      "id": "e4",
-      "n": 4,
-      "title": "سر العالم الخفي",
-      "desc": "بوابة إلى مكان لم يره أحد من قبل.",
-      "date": "2026-04-19",
       "img": "images/poster_hidden_world.jpg",
-      "duration": "27:10",
-      "video": "",
-      "category": "تنانين",
-      "published": true,
-      "featured": true
-    },
-    {
-      "id": "e5",
-      "n": 5,
-      "title": "حراس بيرك",
-      "desc": "الفايكنج والتنانين في مهمة واحدة.",
-      "date": "2026-05-12",
-      "img": "images/poster_4.jpg",
-      "duration": "26:21",
-      "video": "",
-      "category": "مغامرة",
-      "published": true,
-      "featured": false
-    },
-    {
-      "id": "e6",
-      "n": 6,
-      "title": "الرحلة الأخيرة",
-      "desc": "مغامرة جديدة تنتظر في الأفق.",
-      "date": "2026-06-20",
-      "img": "images/poster_hidden_world.jpg",
-      "duration": "28:02",
-      "video": "",
-      "category": "مغامرة",
+      "video": "https://fembed.co/embed/3Pea-Zk_kY15i",
       "published": true,
       "featured": false
     }
@@ -142,5 +77,5 @@
       "text": "مساحات جليدية وسماوات زرقاء تشعرك بأن المغامرة حولك."
     }
   ],
-  "updatedAt": "2026-09-21T04:56:24.879Z"
+  "updatedAt": "2026-09-21T05:09:08.514Z"
 }
