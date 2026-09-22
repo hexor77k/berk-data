@@ -1,13 +1,13 @@
 {
   "version": 2,
   "settings": {
-    "appName": "BERK",
+    "appName": "VINOO",
     "subtitle": "عالم التنانين",
     "heroKicker": "✦ من عالم بيرك ✦",
     "heroTitle": "كيف تروض تنينك",
     "heroDescription": "حين تصبح الصداقة أقوى من الخوف، تبدأ أعظم مغامرة بين فتى من الفايكنج وتنين لم يعرفه أحد حق المعرفة.",
     "heroImage": "images/poster_hidden_world.jpg",
-    "accent": "#38C9FF",
+    "accent": "#38c9ff",
     "welcome": "اختر رحلتك، وحلّق فوق بيرك."
   },
   "groups": [
@@ -178,5 +178,5 @@
       "text": "مساحات جليدية وسماوات زرقاء تشعرك بأن المغامرة حولك."
     }
   ],
-  "updatedAt": "2026-09-22T10:08:55.514Z"
+  "updatedAt": "2026-09-22T10:10:06.564Z"
 }
