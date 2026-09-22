@@ -54,7 +54,22 @@
       "image": "images/poster_hidden_world.jpg"
     }
   ],
-  "episodes": [],
+  "episodes": [
+    {
+      "id": "e_mucd9yrwbun",
+      "n": 1,
+      "title": "الحلقة 1",
+      "desc": "",
+      "date": "2026-09-22",
+      "duration": "",
+      "category": "مغامرة",
+      "groupId": "g_mucd59qpud8",
+      "img": "images/poster_hidden_world.jpg",
+      "video": "https://fembed.co/embed/3Pea-Zk_kY15i",
+      "published": true,
+      "featured": false
+    }
+  ],
   "guide": [
     {
       "icon": "🐲",
@@ -75,5 +90,5 @@
       "text": "مساحات جليدية وسماوات زرقاء تشعرك بأن المغامرة حولك."
     }
   ],
-  "updatedAt": "2026-09-22T07:41:16.467Z"
+  "updatedAt": "2026-09-22T07:42:59.083Z"
 }
