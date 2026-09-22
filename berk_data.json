@@ -52,18 +52,6 @@
       "image": "images/poster_3.jpg"
     },
     {
-      "id": "p4",
-      "title": "عالم التنانين",
-      "subtitle": "مغامرات لا تنتهي",
-      "image": "images/poster_4.jpg"
-    },
-    {
-      "id": "p5",
-      "title": "العالم الخفي",
-      "subtitle": "أبعد من السماء",
-      "image": "images/poster_hidden_world.jpg"
-    },
-    {
       "id": "p_mucfcbnopl6",
       "title": "فرسان قرية بيرك",
       "subtitle": "المغامرة تبدأ الآن",
@@ -190,5 +178,5 @@
       "text": "مساحات جليدية وسماوات زرقاء تشعرك بأن المغامرة حولك."
     }
   ],
-  "updatedAt": "2026-09-22T08:40:46.455Z"
+  "updatedAt": "2026-09-22T08:58:22.014Z"
 }
