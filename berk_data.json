@@ -20,6 +20,16 @@
       "accent": "#42d5ff",
       "order": 1,
       "published": true
+    },
+    {
+      "id": "g_mucf7clc2uo",
+      "title": "تنانين فرسان قرية بيرك موسم 1",
+      "subtitle": "نبدأ بقسم تنانين فرسان قرية بيرك",
+      "desc": "",
+      "image": "https://raw.githubusercontent.com/hexor77k/berk-data/main/images/img_mucf75j3.jpg",
+      "accent": "#42d5ff",
+      "order": 2,
+      "published": true
     }
   ],
   "posters": [
@@ -110,6 +120,48 @@
       "video": "https://fembed.co/embed/jNJBn-X39_y65",
       "published": true,
       "featured": false
+    },
+    {
+      "id": "e_mucf8yq7h92",
+      "n": 1,
+      "title": "الحلقة 5",
+      "desc": "",
+      "date": "2026-09-22",
+      "duration": "",
+      "category": "مغامرة",
+      "groupId": "g_mucf7clc2uo",
+      "img": "https://raw.githubusercontent.com/hexor77k/berk-data/main/images/img_mucf75j3.jpg",
+      "video": "https://fembed.co/embed/L-n57NgN_dp1a",
+      "published": true,
+      "featured": false
+    },
+    {
+      "id": "e_mucf8yq8pan",
+      "n": 2,
+      "title": "الحلقة 6",
+      "desc": "",
+      "date": "2026-09-22",
+      "duration": "",
+      "category": "مغامرة",
+      "groupId": "g_mucf7clc2uo",
+      "img": "https://raw.githubusercontent.com/hexor77k/berk-data/main/images/img_mucf75j3.jpg",
+      "video": "https://fembed.co/embed/x-bz_35Dou356",
+      "published": true,
+      "featured": false
+    },
+    {
+      "id": "e_mucf8yq8wlu",
+      "n": 3,
+      "title": "الحلقة 7",
+      "desc": "",
+      "date": "2026-09-22",
+      "duration": "",
+      "category": "مغامرة",
+      "groupId": "g_mucf7clc2uo",
+      "img": "https://raw.githubusercontent.com/hexor77k/berk-data/main/images/img_mucf75j3.jpg",
+      "video": "https://fembed.co/embed/BNFX-ziD_DNRj",
+      "published": true,
+      "featured": false
     }
   ],
   "guide": [
@@ -132,5 +184,5 @@
       "text": "مساحات جليدية وسماوات زرقاء تشعرك بأن المغامرة حولك."
     }
   ],
-  "updatedAt": "2026-09-22T08:32:48.816Z"
+  "updatedAt": "2026-09-22T08:38:10.613Z"
 }
