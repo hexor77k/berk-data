@@ -64,7 +64,7 @@
       "duration": "",
       "category": "مغامرة",
       "groupId": "g_mucd59qpud8",
-      "img": "images/poster_hidden_world.jpg",
+      "img": "https://raw.githubusercontent.com/hexor77k/berk-data/main/images/img_mucd4ebt.jpg",
       "video": "https://fembed.co/embed/3Pea-Zk_kY15i",
       "published": true,
       "featured": false
@@ -174,5 +174,5 @@
       "text": "مساحات جليدية وسماوات زرقاء تشعرك بأن المغامرة حولك."
     }
   ],
-  "updatedAt": "2026-09-22T07:45:22.424Z"
+  "updatedAt": "2026-09-22T07:46:32.881Z"
 }
