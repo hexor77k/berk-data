@@ -62,6 +62,12 @@
       "title": "العالم الخفي",
       "subtitle": "أبعد من السماء",
       "image": "images/poster_hidden_world.jpg"
+    },
+    {
+      "id": "p_mucfcbnopl6",
+      "title": "فرسان قرية بيرك",
+      "subtitle": "المغامرة تبدأ الآن",
+      "image": "https://raw.githubusercontent.com/hexor77k/berk-data/main/images/img_mucf75j3.jpg"
     }
   ],
   "episodes": [
@@ -184,5 +190,5 @@
       "text": "مساحات جليدية وسماوات زرقاء تشعرك بأن المغامرة حولك."
     }
   ],
-  "updatedAt": "2026-09-22T08:38:10.613Z"
+  "updatedAt": "2026-09-22T08:40:46.455Z"
 }
