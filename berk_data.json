@@ -10,6 +10,18 @@
     "accent": "#38C9FF",
     "welcome": "اختر رحلتك، وحلّق فوق بيرك."
   },
+  "groups": [
+    {
+      "id": "g_mucd59qpud8",
+      "title": "حلقات خاصة",
+      "subtitle": "البداية",
+      "desc": "",
+      "image": "https://raw.githubusercontent.com/hexor77k/berk-data/main/images/img_mucd4ebt.jpg",
+      "accent": "#42d5ff",
+      "order": 1,
+      "published": true
+    }
+  ],
   "posters": [
     {
       "id": "p1",
@@ -42,99 +54,7 @@
       "image": "images/poster_hidden_world.jpg"
     }
   ],
-  "episodes": [
-    {
-      "id": "e_muasc7qddrx",
-      "n": 1,
-      "title": "الحلقة الأولى",
-      "desc": "كيف تروض تنينك  how to train your dragon 1\nمدبلج HD",
-      "date": "2026-09-21",
-      "duration": "1:37:51",
-      "category": "مغامرة",
-      "img": "https://raw.githubusercontent.com/hexor77k/berk-data/main/images/img_mubwmzpo.jpg",
-      "video": "https://fembed.co/embed/3Pea-Zk_kY15i",
-      "published": true,
-      "featured": false
-    },
-    {
-      "id": "e_mubwuryed42",
-      "n": 2,
-      "title": "الحلقة الثانية",
-      "desc": "كيف تروض تنينك - حلقة خاصة بعنوان أسطورة التنين ساحق العظام - مترجم",
-      "date": "2026-09-22",
-      "duration": "15:40",
-      "category": "مغامرة",
-      "img": "https://raw.githubusercontent.com/hexor77k/berk-data/main/images/img_mubwueuh.jpg",
-      "video": "https://fembed.co/embed/lRaym-P8F_TcO",
-      "published": true,
-      "featured": false
-    },
-    {
-      "id": "e_mubwwfcp1gp",
-      "n": 3,
-      "title": "الحلقة الثالثة",
-      "desc": "كيف تروض تنينك - حلقة خاصة بأسم كتاب التنانين",
-      "date": "2026-09-22",
-      "duration": "17:57",
-      "category": "مغامرة",
-      "img": "https://raw.githubusercontent.com/hexor77k/berk-data/main/images/img_mubwwb8c.jpg",
-      "video": "https://fembed.co/embed/9Wtkk6_OT-5Vq",
-      "published": true,
-      "featured": false
-    },
-    {
-      "id": "e_mubwy51akks",
-      "n": 4,
-      "title": "الحلقة الرابعة",
-      "desc": "كيف تروض تنينك - فيلم قصير بعنوان هدية غضب الليل - مترجم",
-      "date": "2026-09-22",
-      "duration": "22:33",
-      "category": "مغامرة",
-      "img": "https://raw.githubusercontent.com/hexor77k/berk-data/main/images/img_mubwxq9b.jpg",
-      "video": "https://fembed.co/embed/jNJBn-X39_y65",
-      "published": true,
-      "featured": false
-    },
-    {
-      "id": "e_mubxcf9ypqm",
-      "n": 5,
-      "title": "الحلقة الخامسة",
-      "desc": "تنانين فرسان قرية بيرك موسم 1 حلقة 1",
-      "date": "2026-09-22",
-      "duration": "22:32",
-      "category": "مغامرة",
-      "img": "https://raw.githubusercontent.com/hexor77k/berk-data/main/images/img_mubxbrlx.jpg",
-      "video": "https://fembed.co/embed/L-n57NgN_dp1a",
-      "published": true,
-      "featured": false
-    },
-    {
-      "id": "e_mubxe1uzaex",
-      "n": 6,
-      "title": "الحلقة السادسة",
-      "desc": "تنانين فرسان قرية بيرك موسم 1 حلقة 2",
-      "date": "2026-09-22",
-      "duration": "22:36",
-      "category": "مغامرة",
-      "img": "https://raw.githubusercontent.com/hexor77k/berk-data/main/images/img_mubxbrlx.jpg",
-      "video": "https://fembed.co/embed/x-bz_35Dou356",
-      "published": true,
-      "featured": false
-    },
-    {
-      "id": "e_mubxh21l60o",
-      "n": 7,
-      "title": "الحلقة السابعة",
-      "desc": "تنانين فرسان قرية بيرك موسم 1 حلقة 3",
-      "date": "2026-09-22",
-      "duration": "22:33",
-      "category": "مغامرة",
-      "img": "https://raw.githubusercontent.com/hexor77k/berk-data/main/images/img_mubxbrlx.jpg",
-      "video": "https://fembed.co/embed/BNFX-ziD_DNRj",
-      "published": true,
-      "featured": false
-    }
-  ],
+  "episodes": [],
   "guide": [
     {
       "icon": "🐲",
@@ -155,5 +75,5 @@
       "text": "مساحات جليدية وسماوات زرقاء تشعرك بأن المغامرة حولك."
     }
   ],
-  "updatedAt": "2026-09-22T00:20:35.906Z"
+  "updatedAt": "2026-09-22T07:41:16.467Z"
 }
